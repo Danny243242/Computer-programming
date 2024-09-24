@@ -1,0 +1,12 @@
+C:\Users\bradley.m1\Desktop\programming\Computer programming\Computer programming\obj\Debug\Computer programming.pyprojResolveAssemblyReference.cache
+C:\Users\bradley.m1\Desktop\programming\Computer programming\Computer programming\obj\Debug\Computer_programming.MainForm.resources
+C:\Users\bradley.m1\Desktop\programming\Computer programming\Computer programming\obj\Debug\Computer programming.pyproj.GenerateResource.Cache
+C:\Users\bradley.m1\Desktop\programming\Computer programming\Computer programming\bin\Debug\Computer programming.exe.config
+C:\Users\bradley.m1\Desktop\programming\Computer programming\Computer programming\bin\Debug\Computer programming.exe
+C:\Users\bradley.m1\Desktop\programming\Computer programming\Computer programming\bin\Debug\Computer programming.dll
+C:\Users\bradley.m1\Desktop\programming\Computer programming\Computer programming\bin\Debug\IronPython.dll
+C:\Users\bradley.m1\Desktop\programming\Computer programming\Computer programming\bin\Debug\IronPython.Modules.dll
+C:\Users\bradley.m1\Desktop\programming\Computer programming\Computer programming\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\bradley.m1\Desktop\programming\Computer programming\Computer programming\bin\Debug\Microsoft.Scripting.dll
+C:\Users\bradley.m1\Desktop\programming\Computer programming\Computer programming\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\bradley.m1\Desktop\programming\Computer programming\Computer programming\obj\Debug\Computer programming.exe
